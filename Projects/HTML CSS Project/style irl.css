@@ -1,0 +1,308 @@
+
+.enquire{
+    background-color: #e63135;
+    color: #fce8e9;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    flex-wrap: nowrap;
+    padding: 5px 0px;
+    font-weight: bold;
+}
+#hyd{
+        background-color: black;
+        color: white;
+        border-radius: 9px;
+        margin: 0px 5px;
+        padding: 2px 5px;
+        border: 1px solid black;
+}
+.pune{ 
+    background-color: black;
+    color: white;
+    border-radius: 9px;
+    margin: 0px 5px;
+    padding: 2px 5px;
+    border: 1px solid black;
+}
+#bang{
+    background-color: black;
+    color: white;
+    border-radius: 9px;
+    margin: 0px 5px;
+    padding: 2px 5px;
+    border: 1px solid white
+
+
+    
+}
+
+.nav2{
+   
+   width: 100%;
+
+   background: white;
+   color: black;
+   display: flex;
+   align-items: center;
+   padding: 0px 0px; 
+   margin: 0 5px;
+   
+}
+.menu a{
+    text-decoration: floralwhite;
+    color: black;
+    padding: 10px 20px;
+}
+#pay
+{
+  color: white;
+  background-color: black;
+  font-size: large; 
+  transform: matrix(2);
+
+}
+.view{
+    text-decoration: none;
+    color: orange;
+   
+    position: Absolute;
+    padding: 10px 20px;
+    background-color: orangered;
+
+
+}
+#logo{
+        width: 300px;
+        height: 100px;
+    }
+
+/*
+#nav{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    width: 100px;
+    height: 10px;
+}
+
+#home{
+    font-size: 20px;
+}
+#intern{
+    font-size: 20px;
+}
+#course{
+    height: 30px;
+    font-size: 15px;
+    border: solid;
+    background-color: black;
+    color: white;
+    border-style: none;
+    
+}
+
+#internship{
+    height: 20px;
+    font-size: 15px;
+    border: solid;
+    background-color: black;
+    color: white;
+    
+    
+}
+#Aboutus{
+    font-size: 20px;
+}
+#pay{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+}
+#aboutus{
+    height: 40px;
+    font-size: 15px;
+    border: solid;
+    background-color: black;
+    color: white;
+    
+}
+#pay{
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+
+}
+#Events{
+    font-size: 20px;
+}
+#events{
+    height: 40px;
+    font-size: 15px;
+    border: solid;
+    background-color: black;
+    color: white;
+    
+}
+#award{
+    width: 1700px;
+    height: 700px;
+    padding-top: 50px;
+    align-content: center;
+    padding-left:0;
+    margin-left: 0px;
+   
+    
+
+}
+#para{
+    width: 800px;
+    text-align: justify;
+}
+#contact{
+    width: 80px;
+    height: 80px;
+
+}*/
+#leader{
+    display: flex;
+    gap: 90px;
+}
+#global{
+    border: solid;
+    border-color:lightgrey;
+    height: 350px;
+    width: 300px;
+    align-content: center;
+    border-radius: 30px;
+}
+#lapy{
+    width: 80px;
+    height: 80px;
+
+}
+#practical{
+    border: solid;
+    border-color:lightgrey;
+    height: 350px;
+    width: 300px;
+    align-content: center;
+    border-radius: 30px;
+}
+#coloumn{
+    gap: 40px;
+}
+#project{
+    border: solid;
+    border-color:lightgrey;
+    height: 350px;
+    width: 300px;
+    align-content: center;
+    border-radius: 30px;
+}
+#suit{
+    width: 80px;
+    height: 80px;
+}
+#placement{
+    border: solid;
+    border-color:lightgrey;
+    height: 350px;
+    width: 300px;
+    align-content: center;
+    border-radius: 30px;
+}
+#price{
+    width: 85px;
+    height: 85px;
+}
+#first{
+    display: block;
+}
+#view{
+    height: 60px;
+    width: 120px;
+    background-color: crimson;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#second{
+    height: 500px;
+    
+}
+#nasscom{
+width: 500px;
+text-align: center;
+font-size: 25px;
+}
+#Datascience{
+    width: 500px;
+    border: solid;
+    border-color: white;
+   
+}
+
+#development{
+width: 500px;
+text-align: center;
+font-size: 25px;
+}
+
+#fullsatck{
+    width: 500px;
+    border: solid;
+    border-color: white;
+}
+
+#generative{
+    width: 500px;
+    border: solid;
+    border-color: white;
+}
+
+#AI{
+    width: 500px;
+    text-align: center;
+    font-size: 25px; 
+}
+#trending{
+    display:flex;
+    gap: 40px;
+    margin-left: 0;
+    
+
+}
+
+#full{
+    background-color: black;
+}
+#whole{
+    display: flex;
+    gap: 60px;
+}
+
+#videos{
+
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: solid;
+    border-color: red;
+    
+
+
+}
+#expert{
+    width: 500px;
+    background-color: black; 
+color: white; align-content: center; 
+height: 100px; 
+display: flex;
+gap: 50px;
+ padding-left: 700px;
+   align-items: center;
+}
+

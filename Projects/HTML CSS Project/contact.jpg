@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<!-- saved from url=(0039)https://innomaticsproject1.netlify.app/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Innomatics</title>
+    <link rel="stylesheet" href="./contact_files/all.min.css">
+    <link rel="stylesheet" href="./contact_files/style.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="first-part-nav">
+          <p>Enquire Now:</p>
+          <span class="phone">Hyd: 📞 1800 4123 3390</span>
+          <span class="phone">Pune: 📞 9952666671</span>
+          <span class="phone">Bengaluru: 📞 9952666672</span>
+        </div>
+        <div class="second-part-nav">
+          <div class="logo">
+            <img src="./contact_files/Innomatics-Logo1.png" alt="Logo of Innomatics">
+          </div>
+          <div class="menu">
+            <ul>
+              <li>Home</li>
+              <li>Courses</li>
+              <li>It Scholars Program</li>
+              <li>Internship</li>
+              <li>About Us</li>
+              <li>Events</li>
+            </ul>
+          </div>
+          <div class="pay">
+            <button>₹ Pay Now</button>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <section class="hero"></section>
+    <section class="hero2">
+      <div class="right-hero">
+        <h1>We just don’t train,<br>We transform the careers</h1>
+        <p>
+          <strong>Innomatics Research Labs</strong> is a pioneer in
+          <strong>“Transforming Careers and Lives”</strong> of individuals in
+          the Digital Space by catering advanced training on
+          <strong class="highlight">NASSCOM FutureSkills Prime Certified Data Science, Python,
+            Predictive Analytics Modeler, Machine Learning, Artificial
+            Intelligence (AI), Generative AI, Full-stack Web Development</strong>, and the <strong>Career Launching Program</strong>. Students who are
+          willing to showcase their skills in the competitive job market can
+          gain <strong>valuable credentials</strong> and complete courses with a
+          <strong>certificate</strong>.
+        </p>
+
+        <p class="highlight">
+          NASSCOM Futureskills Prime Registered Business Partner
+        </p>
+        <p>
+          As an <strong>NASSCOM FutureSkills Prime Training Partner</strong>, we
+          provide <strong>real-world learning experiences</strong>. Our training
+          includes <strong>case studies</strong> and
+          <strong>business challenges</strong> to ensure
+          <strong>job-ready skills</strong>. We also organize
+          <strong>regular hackathons, workshops, and meetups</strong> to enhance
+          learning and productivity.
+        </p>
+
+        <p>
+          With a dedicated <strong>placement team</strong>, we partner with
+          <strong>over 100 companies</strong> to match them with
+          <strong>skilled professionals</strong>, helping businesses grow while
+          shaping <strong>successful careers</strong>.
+        </p>
+
+        <p class="highlight">Best EdTech Company</p>
+        <p>
+          Recognized by <strong>Times of India</strong> as the
+          <strong>Best Training Institute in Hyderabad</strong> for
+          <strong>Data Science &amp; Digital Marketing</strong>, we have
+          <strong class="numbers">trained and placed 10,000+ students</strong>.
+          With
+          <strong class="numbers">350+ batches, 70+ hackathons, 500+ industry experts, 500+ webinars,
+            and 500+ hiring partners</strong>, we focus on
+          <strong>practical learning and skill development</strong> through
+          <strong>advanced classrooms</strong> and
+          <strong>modern training methods</strong>.
+        </p>
+
+        <button class="view_more">View More</button>
+      </div>
+
+      <div class="hero-left">
+        <h1>What we are?</h1>
+        <div class="cards-left-hero">
+          <div class="card">
+            <i class="fa-solid fa-users"></i>
+            <h4>Global Leaders in Training</h4>
+          </div>
+          <div class="card">
+            <i class="fa-solid fa-chalkboard-teacher"></i>
+            <h4>Practical Oriented Approach</h4>
+          </div>
+          <div class="card">
+            <i class="fa-solid fa-laptop-code"></i>
+            <h4>Hands-On Project &amp; Internship</h4>
+          </div>
+          <div class="card">
+            <i class="fa-solid fa-briefcase"></i>
+            <h4>100% Placement Assistance</h4>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="Courses">
+      <h1>Trending Courses of 2025</h1>
+      <div class="courses-cards">
+        <div class="courses-card">
+          <img src="./contact_files/No-1-best-data-science-course-training-institute-in-hyderabad.jpg" alt="
+    NASSCOM Futureskills Prime Certified Data Science">
+          <div>
+            <h3>NASSCOM Futureskills Prime Certified Data Science</h3>
+            <p>
+              This is a great choice for tech geeks, students, working
+              professionals and aspiring data scientists who want to upskill and
+              build a better foundation is the stream of Data Science.
+            </p>
+            <button>Read more</button>
+          </div>
+        </div>
+        <div class="courses-card">
+          <img src="./contact_files/FULL-STACK-WEB.jpg" alt="
+    Full Stack Development">
+          <div>
+            <h3>Full Stack Development</h3>
+            <p>
+              Learn the right skills to break into a development career &amp;
+              advance yourself as a full-stack Developer. It includes Frontend,
+              Backend, databases, debugging &amp; testing.
+            </p>
+            <button>Read more</button>
+          </div>
+        </div>
+        <div class="courses-card">
+          <img src="./contact_files/WhatsApp-Image-2025-01-17-at-11.49.18.jpeg" alt="
+    Generative AI">
+          <div>
+            <h3>Generative AI</h3>
+            <p>
+              Generative AI Course at Innomatics is perfect for students, job
+              seekers, entrepreneurs, and professionals who want to learn the
+              latest AI tools and skills to grow in their careers.
+            </p>
+            <button>Read more</button>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="Testimonials">
+  <h1 style="text-align: center; font-size: 34px; padding: 10px 0px;">A few reviews from our students</h1>
+  <div class="reviews">
+   <h3> Sindhuja</h3>
+   <p>
+    Innomatics is one of the best places to gain knowledge on data science and also get certified through Nasscom which can help in getting the right jobs from top companies. Tutors will teach you with real-time examples to understand the concepts in an easy way. Special thanks to Vaibav Sir who taught each concept very clearly.
+
+   </p>
+   
+</div>
+
+    </section>
+<section>
+    <p style="text-align: center; font-size: 34px; padding: 10px 0px;">Here Are Some Of Our Success Stories</p>
+    <div class="studentImg">
+        <img src="./contact_files/Aaesha_Azeemuddin-400x516.jpg" alt="https://www.innomatics.in/wp-content/uploads/2024/11/Aaesha_Azeemuddin-400x516.jpg">
+        <img src="./contact_files/Alladi_Ranjith-400x516.jpg" alt="https://www.innomatics.in/wp-content/uploads/2024/11/Alladi_Ranjith-400x516.jpg">
+        <img src="./contact_files/Cherukupalli_Indhu-400x516.jpg" alt="https://www.innomatics.in/wp-content/uploads/2024/11/Cherukupalli_Indhu-400x516.jpg">
+        <img src="./contact_files/G._Venkata_Mareswararao-400x516.jpg" alt="https://www.innomatics.in/wp-content/uploads/2024/11/G._Venkata_Mareswararao-400x516.jpg">
+    </div>
+</section>
+<section class="Blog">
+    <h1 style="text-align: center; font-size: 34px; padding: 10px 0px;">Read Latest Business News &amp; Blog updates</h1>
+<div class="blog_cards">
+    <div class="blog_card">
+        <img src="./contact_files/banner-1-1-400x250.jpg" alt="https://www.innomatics.in/wp-content/uploads/2023/08/banner-1-1-400x250.jpg">
+        <h3>OOPS Concepts in Python: Part 1</h3>
+        <p>Class, Objects, Constructor, Methods in Python :...</p>
+    </div>
+    <div class="blog_card">
+        <img src="./contact_files/Real-world-Applications-of-Data-Science-400x250.png" alt="https://www.innomatics.in/wp-content/uploads/2023/04/Real-world-Applications-of-Data-Science-400x250.png">
+        <h3>Real-world Applications of Data Science in Today’s Fast-paced Environment</h3>
+        <p>Data science is a field that has emerged as an...</p>
+    </div>
+    <div class="blog_card">
+        <img src="./contact_files/web-site-blog-1-1-400x250.jpg" alt="https://www.innomatics.in/wp-content/uploads/2023/04/Real-world-Applications-of-Data-Science-400x250.png">
+        <h3>Why should you join Innomatics?</h3>
+        <p>At Innomatics we believe in looking at the...</p>
+        </div>
+    </div>
+    <footer>
+        <div class="footer-container">
+            <div class="footer_1">
+                <img src="./contact_files/innomatics-footer-logo.png" alt="logo">
+                <p>A leading training institute, Innomatics Research Labs offers courses in areas such as NASSCOM Futureskills Prime Certified Data Science, Python, AI, Data Analytics, Full Stack Development, and Generative AI. Our practical training is designed meticulously to meet industry needs and provide valuable certification upon completion, empowering individuals to excel in their careers.</p>
+                <div class="social-icons">
+                    <a href="https://innomaticsproject1.netlify.app/#" target="_blank"><i class="fa-brands fa-linkedin" style="color: #000bb6;"></i></a>
+                    <a href="https://innomaticsproject1.netlify.app/#" target="_blank"><i class="fa-brands fa-square-facebook" style="color: #3B5998;"></i></a>
+                    <a href="https://innomaticsproject1.netlify.app/#" target="_blank"><i class="fa-brands fa-square-instagram" style="color: #EA2C59;"></i></a>
+                    <a href="https://innomaticsproject1.netlify.app/#" target="_blank"><i class="fa-brands fa-square-x-twitter"></i></a>
+                    <a href="https://innomaticsproject1.netlify.app/#" target="_blank"><i class="fa-brands fa-square-youtube" style="color: #A82400;"></i></a>
+                </div>
+            </div>
+    
+            <div class="footer_2">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="https://innomaticsproject1.netlify.app/#">Data Science</a></li>
+                    <li><a href="https://innomaticsproject1.netlify.app/#">Online Data Science</a></li>
+                    <li><a href="https://innomaticsproject1.netlify.app/#">Advanced Generative AI</a></li>
+                    <li><a href="https://innomaticsproject1.netlify.app/#">Full Stack Web Developer</a></li>
+                    <li><a href="https://innomaticsproject1.netlify.app/#">Digital Marketing</a></li>
+                    <li><a href="https://innomaticsproject1.netlify.app/#">Placements</a></li>
+                    <li><a href="https://innomaticsproject1.netlify.app/#">Partner with us</a></li>
+                    <li><a href="https://innomaticsproject1.netlify.app/#">Privacy Policy</a></li>
+                </ul>
+            </div>
+    
+            <div class="footer_3">
+                <h3>Contact Us</h3>
+       
+                <div>
+                     <div>
+                        <p><strong>Kukatpally — Hyderabad</strong><br>
+                            #205, 2nd Floor, Fortune Signature, Near JNTU Metro Station, Kukatpally, Hyderabad, Telangana 500085<br>
+                            Call: <a href="tel:+919951666670">+91-9951666670</a></p>   
+                     </div>
+                    
+                    <div>
+
+                        <p><strong>Kukatpally — Hyderabad</strong><br>
+                            #205, 2nd Floor, Fortune Signature, Near JNTU Metro Station, Kukatpally, Hyderabad, Telangana 500085<br>
+                            Call: <a href="tel:+919951666670">+91-9951666670</a></p>   
+                    </div>
+                 
+                </div>
+        
+    
+                <p> <strong>Pune</strong><br>
+                2nd Floor, Sai Sayaji Apartment, 201 Paud Rd, beside VANAZ Metro, above Bata showroom, Ramkrishna Paramhans Nagar, Kothrud, Pune, Maharashtra 411038<br>
+                Call: <a href="tel:+919951666671">+91-9951666671</a></p>
+    
+                <p><strong>Bengaluru</strong><br>
+                NO.576/B, 3rd FLOOR, Swetha Arcade, Service Road, 100 FT ROAD, 6TH SECTOR, HSR Layout, Bengaluru, Karnataka 560068<br>
+                Call: <a href="tel:+919951666672">+91-9951666672</a></p>
+    
+                <p>Email: <a href="mailto:Admissions@innomatics.in">Admissions@innomatics.in</a></p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>©  2024 Innomatics Research Labs Pvt Ltd, All rights reserved.</p>
+        </div>
+      
+    </footer>
+   
+    
+
+</section>
+  
+
+<div id="hl-aria-live-message-container" aria-live="polite" class="visually-hidden"></div><div id="hl-aria-live-alert-container" role="alert" aria-live="assertive" class="visually-hidden"></div></body><div id="smartyContainer" style="position: absolute; top: 0px; right: 0px; line-height: initial; z-index: 2147483647; width: auto; font-size: initial;"><template shadowrootmode="open"><style>@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfedw.ttf) format('truetype');
+}
+@media screen and (max-width: 812px) {
+  #sm-coupon-container {
+    position: fixed;
+    bottom: -6000px;
+    z-index: 2147483647;
+    -webkit-transition: all 0.8s;
+    -moz-transition: all 0.8s;
+    -o-transition: all 0.8s;
+    transition: all 0.8s;
+  }
+  #sm-coupon-container.sm-animate-visible {
+    bottom: 0;
+  }
+  #sm-coupon-container.sm-centered {
+    bottom: 0;
+  }
+  #sm-coupon-container .sm-coupon-wrapper {
+    background-color: #ffffff;
+    border-radius: 15px;
+    width: 100vw;
+  }
+  #sm-coupon-container .sm-header {
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 1px solid #eee;
+  }
+  #sm-coupon-container .sm-header .sm-logo1 {
+    margin: 7px 5px 0 5px;
+    cursor: pointer;
+  }
+  #sm-coupon-container .sm-header img.sm-logo1 {
+    width: 80px;
+  }
+  #sm-coupon-container .sm-header .sm-cross-icon {
+    float: right;
+    cursor: pointer;
+    margin-top: 7px;
+    margin-right: 5px;
+  }
+  #sm-coupon-container .sm-header .sm-cross-icon img {
+    margin: 10px 14px;
+    width: 11px;
+  }
+  #sm-coupon-container .sm-activation-button {
+    font-size: 18px;
+    text-align: center;
+    min-width: 70%;
+    padding: 0 5px;
+    line-height: 40px;
+    border-radius: 5px;
+  }
+  #sm-coupon-container .sm-activation-button :hover {
+    font-size: 22px;
+    min-width: 85%;
+  }
+  #sm-coupon-container .sm-activation-button img {
+    height: 15px;
+  }
+  #sm-coupon-container .sm-support a {
+    font-size: 8px !important;
+  }
+  #sm-coupon-container .sm-coupon-codes {
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 5px;
+  }
+  #sm-coupon-container .sm-valid-codes {
+    overflow: hidden;
+    height: 56px;
+  }
+  #sm-coupon-container #exclusions-text {
+    font-family: Verdana;
+    font-size: 8pt;
+    bottom: 40px;
+    background-color: #eeeeee;
+    color: #333333;
+    padding: 5px 20px;
+    border-radius: 5px;
+  }
+  #sm-coupon-container h1 {
+    font-size: 20px;
+  }
+  #sm-coupon-container h2 {
+    font-size: 18px;
+  }
+  #sm-coupon-container h3 {
+    font-size: 15px;
+  }
+  #sm-coupon-container h4 {
+    font-size: 12px;
+  }
+  #sm-coupon-container h5 {
+    font-size: 10px;
+  }
+  #sm-coupon-container h6 {
+    font-size: 10.2px;
+  }
+}
+@media screen and (min-width: 813px) {
+  #sm-coupon-container {
+    position: fixed;
+    z-index: 2147483647;
+    top: -8px;
+    right: -3600px;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    transition: all 0.4s;
+  }
+  #sm-coupon-container.sm-animate-visible {
+    right: 0;
+  }
+  #sm-coupon-container.sm-centered {
+    right: calc(50vw - 325px);
+    top: calc(50vh - 240px);
+  }
+  #sm-coupon-container .sm-coupon-wrapper {
+    width: 374px;
+  }
+  #sm-coupon-container .sm-header {
+    margin: 0px;
+    padding: 0 15px;
+  }
+  #sm-coupon-container .sm-header .sm-logo1 {
+    margin: 10px;
+    cursor: pointer;
+  }
+  #sm-coupon-container .sm-header .sm-cross-icon {
+    float: right;
+    margin-top: 11px;
+    cursor: pointer;
+  }
+  #sm-coupon-container .sm-activation-button {
+    font-size: 20px;
+    text-align: center;
+    min-width: 70%;
+    padding: 0 5px;
+    line-height: 45px;
+    border-radius: 5px;
+  }
+  #sm-coupon-container .sm-activation-button :hover {
+    font-size: 22px;
+    min-width: 85%;
+  }
+  #sm-coupon-container .sm-activation-button img {
+    height: 15px;
+  }
+  #sm-coupon-container .sm-coupon-codes {
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  #sm-coupon-container .sm-valid-codes {
+    overflow: hidden;
+    height: 62px;
+  }
+  #sm-coupon-container #exclusions-text {
+    font-family: Verdana;
+    font-size: 8pt;
+    margin-left: 15px;
+    position: absolute;
+    bottom: 40px;
+    width: 300px;
+    background-color: #eeeeee;
+    color: #333333;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  #sm-coupon-container h1 {
+    font-size: 25px;
+  }
+  #sm-coupon-container h2 {
+    font-size: 20px;
+  }
+  #sm-coupon-container h3 {
+    font-size: 18px !important;
+    text-align: center !important;
+  }
+  #sm-coupon-container h4 {
+    font-size: 15px;
+  }
+  #sm-coupon-container h5 {
+    font-size: 12px;
+  }
+  #sm-coupon-container h6 {
+    font-size: 10.2px;
+  }
+}
+#sm-coupon-container.no-transition {
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  transition: none;
+}
+#sm-coupon-container span#checkedCoupons,
+#sm-coupon-container span#totalCoupons {
+  font-size: inherit;
+}
+#sm-coupon-container .sm-coupon-wrapper {
+  background-color: #ffffff;
+  border-radius: 5px;
+  margin-top: 0px;
+  margin-right: 15px;
+  margin-top: 25px;
+}
+#sm-coupon-container a,
+#sm-coupon-container a:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
+#sm-coupon-container .sm-activation-button {
+  display: inline-block;
+  background-color: #6d6fd5 !important;
+  color: #fff;
+  cursor: pointer;
+  -webkit-transition: 0.05s;
+  transition: 0.05s;
+  transition-timing-function: ease-in-out;
+}
+#sm-coupon-container #sm-style-4::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: #F5F5F5;
+}
+#sm-coupon-container #sm-style-4::-webkit-scrollbar {
+  width: 4px;
+  background-color: #999999;
+}
+#sm-coupon-container #sm-style-4::-webkit-scrollbar-thumb {
+  background-color: #999999;
+  border: 2px solid #999999;
+}
+#sm-coupon-container .sm-margin0 {
+  margin: 0px;
+}
+#sm-coupon-container .sm-coupons {
+  background-color: #fff;
+  padding: 0px 10px;
+  width: 100%;
+  text-align: center;
+  text-transform: none;
+}
+#sm-coupon-container .sm-best-coupons {
+  background-color: #6d6fd5 !important;
+  display: inline-block;
+  padding: 0 55px;
+  line-height: 49px;
+  color: #fff !important;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 5px;
+}
+#sm-coupon-container .sm-claim {
+  background-color: #6d6fd5 !important;
+  display: inline-block;
+  padding: 0 55px;
+  line-height: 49px;
+  color: #fff !important;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 5px;
+}
+#sm-coupon-container .sm-invalid-codes {
+  width: initial;
+}
+#sm-coupon-container .sm-support {
+  float: left;
+  margin-right: 15px;
+  width: initial;
+}
+#sm-coupon-container .sm-support .sm-icon {
+  float: left;
+  height: 20px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+#sm-coupon-container .sm-support .sm-invalid {
+  transition: margin 0.1s;
+  -webkit-transition: margin 0.1s;
+  float: none;
+}
+#sm-coupon-container .sm-support .sm-valid {
+  margin: 5px;
+  transition: margin 0.1s;
+  -webkit-transition: margin 0.1s;
+}
+#sm-coupon-container .sm-support a {
+  width: 100%;
+  background-color: #e8e8e8 !important;
+  color: #6d6fd5 !important;
+  padding: 10px 8px;
+  font-size: 11px;
+  letter-spacing: 0.35px;
+  font-weight: 700;
+  border-radius: 5px;
+  min-width: 100px;
+  text-align: center;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+}
+#sm-coupon-container .sm-coupon-invalid {
+  background-color: #fff !important;
+  width: 100%;
+  opacity: 0.3;
+  border: solid 1px #e8e8e8;
+  color: #5e5e5e;
+  padding: 2px 0px;
+  font-size: 11px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+#sm-coupon-container .sm-progress-bar {
+  float: left;
+  width: 0;
+  height: 100%;
+  font-size: 12px;
+  line-height: 20px;
+  color: #fff;
+  text-align: center;
+  background-color: #6d6fd5;
+  -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
+  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
+  -webkit-transition: width 0.6s ease;
+  -o-transition: width 0.6s ease;
+  transition: width 0.6s ease;
+}
+#sm-coupon-container .sm-progress {
+  height: 7px;
+  margin-bottom: 14px;
+  overflow: hidden;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+#sm-coupon-container .sm-not-working {
+  position: absolute;
+  bottom: 10px;
+  width: 374px;
+  right: 25px;
+  text-align: center;
+}
+#sm-coupon-container .sm-not-working a {
+  text-transform: none;
+  color: #6d6fd5;
+}
+#sm-coupon-container .sm-error-img {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#sm-coupon-container .sm-error {
+  font-size: 14px;
+  margin-top: 30px;
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#sm-coupon-container .sm-error ul {
+  text-align: left;
+  margin-bottom: 30px;
+  padding-left: 20px;
+  list-style-type: disc !important;
+}
+#sm-coupon-container .sm-error ul li {
+  font-size: 14px;
+}
+#sm-coupon-container .sm-content {
+  font-size: 16px !important;
+  margin: 20px;
+  text-align: center;
+}
+#sm-coupon-container .sm-content a.sm-visit {
+  background-color: #6d6fd5 !important;
+  display: inline-block;
+  padding: 0 55px;
+  line-height: 49px;
+  color: #fff !important;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 5px;
+}
+#sm-coupon-container .sm-primary,
+#sm-coupon-container .sm-button {
+  background-color: #6d6fd5;
+  width: 100%;
+  line-height: 49px;
+  color: #fff;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: center;
+  padding: 9px 15px;
+  border-radius: 5px;
+}
+#sm-coupon-container .sm-activate-later {
+  font-size: 14px !important;
+  font-weight: 600;
+  color: #252d6a;
+}
+#sm-coupon-container .sm-coupon {
+  display: inline !important;
+  background-color: #e8e8e8 !important;
+  color: #6d6fd5 !important;
+  padding: 10px 20px !important;
+  font-size: 15px !important;
+  letter-spacing: 0.35px !important;
+  font-weight: 700 !important;
+  border-radius: 5px !important;
+  min-width: 100px !important;
+  text-align: center !important;
+}
+#sm-coupon-container .sm-share-coupon {
+  background-color: #6d6fd5 !important;
+  width: 100% !important;
+  line-height: 49px !important;
+  color: #fff !important;
+  font-size: 15px !important;
+  cursor: pointer !important;
+  text-align: center !important;
+  padding: 9px 15px !important;
+  border-radius: 5px !important;
+}
+#sm-coupon-container .sm-working-coupon {
+  color: #252d6a;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  border-radius: 5px;
+}
+#sm-coupon-container .sm-congrats {
+  color: #f5a80c;
+  font-size: 27px;
+  font-weight: 600;
+  text-align: center;
+  line-height: 40px;
+}
+#sm-coupon-container .sm-green {
+  color: #00c57d;
+  font-weight: 700;
+  font-size: 20px;
+}
+#sm-coupon-container .sm-success-btn {
+  padding: 10px;
+  height: 42px;
+  overflow: hidden;
+  background-color: transparent;
+  border-color: #6d6fd5 !important;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  color: #6d6fd5;
+  font-weight: bold !important;
+  font-size: 15px !important;
+  cursor: pointer;
+}
+#sm-coupon-container .sm-button-disabled {
+  padding: 10px;
+  height: 42px;
+  overflow: hidden;
+  background-color: transparent;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  color: #aaa;
+  font-weight: bold !important;
+  font-size: 15px !important;
+  cursor: pointer;
+}
+#sm-coupon-container .sm-review {
+  background: #6d6fd5;
+  color: #fff;
+  width: 185px;
+  margin: auto;
+}
+#sm-coupon-container .sm-logo {
+  justify-self: start;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+#sm-coupon-container .sm-close {
+  margin: 5px 10px;
+  justify-self: end;
+  align-self: start;
+  cursor: pointer;
+}
+#sm-coupon-container .exclusions {
+  text-align: center;
+}
+#sm-coupon-container #exclusions-button {
+  font-weight: 600;
+  font-size: 9pt;
+  cursor: pointer;
+}
+#sm-coupon-container .exclusions-hidden {
+  display: none;
+}
+#sm-coupon-container .sm-code {
+  color: #6d6fd5;
+}
+#sm-coupon-container .sm-copy {
+  border: 1px solid #f5a80c;
+  background: #ffc954;
+}
+#sm-coupon-container .sm-coupon-list::-webkit-scrollbar-thumb {
+  background-color: #6d6fd5;
+}
+#sm-coupon-container .sm-go {
+  background-color: #f5a80c;
+  color: #FFF;
+}
+#sm-coupon-container .span-all {
+  grid-column: 1 / span 2;
+}
+#sm-coupon-container .sm-save {
+  font-size: 13pt;
+  font-weight: 800;
+  color: #252d6a;
+  margin-bottom: 15px;
+}
+#sm-coupon-container .sm-price-redirect {
+  cursor: pointer;
+}
+#sm-coupon-container .sm-refer-email {
+  padding: 10px;
+  height: 35px;
+  width: 175px;
+  border-color: #949393 !important;
+  border-radius: 8px 0px 0px 8px;
+  border-style: solid;
+  border-width: 1px;
+  outline: none;
+  font-size: 14px !important;
+}
+#sm-coupon-container .sm-refer-submit {
+  padding: 5px 7px 7px 8px;
+  height: 32px;
+  overflow: hidden;
+  background-color: #6d6fd5;
+  border-color: #6d6fd5 !important;
+  border-radius: 0px 8px 8px 0px;
+  border-style: solid;
+  border-width: 1px;
+  color: #fff;
+  font-size: 15px !important;
+  cursor: pointer;
+}
+#sm-coupon-container .sm-refer-btn {
+  margin: auto;
+  padding: 6px;
+  height: 38px;
+  width: 180px;
+  overflow: hidden;
+  background-color: transparent;
+  border-color: #6d6fd5 !important;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  color: #6d6fd5;
+  font-size: 15px !important;
+  font-weight: bold;
+  cursor: pointer;
+}
+#sm-coupon-container .sm-referral-msg {
+  font-size: 14px !important;
+  margin: 5px;
+  font-weight: 500;
+  height: 40px;
+}
+#sm-coupon-container .sm-referral-success {
+  color: #00c57d;
+}
+#sm-coupon-container .sm-referral-error {
+  color: #ff0000;
+}
+#sm-coupon-container .sm-exclusions {
+  padding: 10px 0px;
+  color: #716f6f;
+  font-size: 14px;
+}
+#sm-coupon-container .sm-small-link {
+  text-decoration: underline;
+  color: #252d6a;
+  font-size: 8pt;
+  cursor: pointer;
+}
+#sm-inline-content {
+  all: initial;
+}
+#sm-inline-content .sm-searching-button {
+  display: inline-block;
+  padding: 3px 12px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  color: #888;
+  font-family: Poppins;
+  font-size: 11pt;
+  font-weight: bold;
+  margin: 5px 0;
+  padding-top: 5px;
+  height: 22px;
+}
+#sm-inline-content .sm-found-button {
+  display: inline-block;
+  padding: 3px 12px;
+  border-radius: 5px;
+  background-color: #6d6fd5;
+  color: #ffffff;
+  border: initial;
+  font-family: Poppins;
+  font-size: 11pt;
+  font-weight: bold;
+  margin: 5px 0;
+  padding-top: 5px;
+  height: 25px;
+  cursor: pointer;
+}
+#sm-inline-content .sm-img {
+  vertical-align: middle;
+  height: 20px;
+  margin-right: 5px;
+}
+#sm-inline-content .sm-loading {
+  vertical-align: middle;
+  height: 8px;
+}
+#sm-full-loader {
+  position: fixed;
+  z-index: 2147483646;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.7;
+}
+.bg-facebook {
+  background-color: #3c579e;
+}
+.bg-google {
+  background-color: #4285f4;
+}
+.bg-microsoft {
+  background-color: #2f2f2f;
+}
+.bg-apple {
+  background-color: #000000;
+}
+</style></template></div></html>
